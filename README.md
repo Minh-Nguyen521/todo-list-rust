@@ -8,4 +8,4 @@
 `i` to add task <br>
 `Enter` to check done <br>
 `q` to quit <br>
-`Tab` to change from todoist to do list and otherwise <br>
+`Tab` to change from todolist to done list and otherwise <br>
