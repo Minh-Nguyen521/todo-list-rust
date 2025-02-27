@@ -3,7 +3,6 @@ use termion::{color, cursor, clear};
 use termion::raw::IntoRawMode;
 use termion::input::TermRead;
 use termion::event::Key;
-use std::io::Read;
 
 
 fn print_list<W: Write>(todo_list: &Vec<String>, curr_idx: usize, stdout: &mut W, curr_table: bool) {
